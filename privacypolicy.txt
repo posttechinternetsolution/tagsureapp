@@ -1,0 +1,64 @@
+
+
+TagSure Privacy Policy
+
+Privacy Policy of TagSure
+
+Last updated: Dec 21, 2023
+
+Version : TGS_PV_Dec_2023_Version_1
+
+Definitions
+
+“User”, “You” “Data Subjects” defined as the registered user of the TagSure App, who has completed the TagSure registration process.
+
+“Company”, “Posttech”, “TagSure” "We" defined as Posttech Software Solutions Private Limited
+
+“Service”, “Messenger Service” is the defined as the services provided as part of the TagSure App, that includes services to exchange Text Messages, Multimedia Messages, Audio Call, Video Call between the registered users of the TagSure App.
+
+“User Information” is defined as the information the “User” has shared with the “Company” so as to allow the “Company” to deliver the “Messenger Service” to the “User”.
+
+1. Principles for processing personal data Our principles for processing personal data are: • Fairness and lawfulness. When we process personal data, the individual rights of the Data Subjects must be protected. All personal data must be collected and processed in a legal and fair manner. • Restricted to a specific purpose. The personal data of Data Subject must be processed only for specific purposes. • Transparency. The Data Subject must be informed of how his/her data is being collected, processed and used.
+
+2. What personal data we collect and process 2.1 User Profile Information Name, Phone, Hardware Id of Registered Phone on which TagSure App is installed, About Text, Profile Photo of the User. 2.2 User Activity Last Activity, Action Status(if Typing or not typing), Last Seen Time. 2.3 User Privacy Settings About Privacy, Profile Photo Privacy, Last Seen Privacy, Blocked List, Contact List 2.4 Registration Information Registration Date Time, Registration IP Address, Date Time of accepting privacy policy and its updates, IP Address of accepting privacy policy and its updates, Date Time of accepting Terms and Conditions and its updates, IP Address of accepting Terms and Conditions and its updates,
+
+3. Log Data We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the TagSure app when utilizing our Service, the time and date of your use of the Service, and other statistics. Such Log Data is collected in an anonymized way and cannot be directly traced to a User.
+
+4. User Messages The user messages are peer to peer encrypted between the Sender User and the Recipient User. The Messages are stored on TagSure server till the messages are read by the recipient user. As soon as the message is read by the recipient User, the message is deleted from the TagSure Server, and no copy of the user message is maintained on the TagSure Server after it is read by the recipient user. Any message that is not read by the recipient user for more than 30 days is auto deleted from the servers of TagSure.
+
+5. App Permissions for Android App TagSure Android App uses following App Permissions. CAMERA, WRITE_EXTERNAL_STORAGE, READ_EXTERNAL_STORAGE, RECORD_AUDIO, LOCATION. These permissions are requested by TagSure from the User only when the User selects the specific feature that needs access to these permissions.
+
+6. How we use the personal data Company uses the collected personal data for various purposes: • To provide you with Messenger services for exchanging Text, Multimedia, Audio Call, Video Call between registered users of the TagSure App. • To notify you about changes to our services and/or products. • To provide customer support. • To gather analysis or valuable information so that we can improve our services. • To detect, prevent and address technical issues.
+
+7. Purpose and Specific reason for collecting and processing personal data Company's legal basis for collecting and using the personal data described in this Data Protection Policy is to provide you the "Messenger Services" of exchanging Text, Multimedia, Audio Call, Video Call with other registered users of the TagSure App.
+
+8. Retention of personal data Company will only retain your personal information for as long as is necessary for the purposes set out in this Data Protection Policy. Company will only retain and use your information to the extent necessary to comply with our legal obligations, resolve disputes, and enforce our policies.
+
+9. Location Data. You may choose to share your Location information with other TagSure users, using the share location feature. Such GPS location is shared using peer to peer encrypted messages. Your GPS Location cannot be seen by TagSure. TagSure does not store your location on its servers.
+
+10. Deletion of Account User can at any time delete their account by using the Delete Account button of the TagSure App. At the time of such delete account, all user data mentioned in Section 2.1, 2.2 and 2.3 are deleted from TagSure Servers. At the time of deletion of account following data is retained at TagSure servers. Data mentioned in Section 2.4 along with Account Deletion Date, Account Deletion IP Address is retained to comply with our legal obligations.
+
+11. Disclosure to Third Parties. We do not disclose your privacy information mentioned in Section 2 and Section 3 to any Third Party except as required by Law as mentioned in Section 12 below.
+
+12. Disclosures as needed by the Law. If and when required under the provisions of India Law, and by Indian Law Enforcement agencies, we may have to disclose your information to the relevant Law Enforcement agencies. Any such disclosure shall only be done to the relevant Law Enforcement Agency and shall be purely compliant with the Indian Constitution and the Indian Law.
+
+13. Third Party Services The TagSure app does use third party services. These third party services may collect information used to identify you. These third party services used by TagSure are as follows. A Google Play Services. B. Google AdMob. You are requested to review the privacy statements of these third party service providers on their respective websites. TagSure does not share the information mentioned in Section 2 and Section 3 with these third party services.
+
+14. Links to Other Sites The registered users of TagSure may share with each other, links that are third party link to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+15. Children’s Privacy These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+
+16. Changes to This Privacy Policy We may update our Privacy Policy from time to time. Thus, you are advised to review the TagSure official privacy policy page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+17. Jurisdiction Jurisdiction for any dispute resolution related to this Privacy Policy is by arbitration at Noida, Uttar Pradesh, India.
+
+18. Contact Us If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us. You can email at support@posttech.net
+
+Contact Email at support@posttech.net
+
+Contact
+
+Posttech Internet Solution, Level 5, Tower C, Green Boulevard, Sector 62, Noida, UP, India.
+
+Email: support@posttech.net
+
