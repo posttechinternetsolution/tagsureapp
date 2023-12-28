@@ -1,0 +1,68 @@
+Terms of Use
+
+Terms of Service
+
+Terms of Service of TagSure Last updated: Dec 21, 2023 Version : TGS_TC_Dec_2023_Version_1
+
+Between “User”, "user", "you", “You” “Data Subjects” defined as the registered user of the TagSure App, who has completed the TagSure registration process.
+
+and
+
+“Company”, “Posttech”, “TagSure” "We" defined as Posttech Software Solutions Private Limited, that is a private limited company incorporated in India. The "User" is in need of a messenger application and service to exchange text, multimedia, audio, video with other users. The "Company" provides such messenger application and service through TagSure App. Hence both "User" and "Company" mutually enter into the agreement as witnesseth below
+
+1. Definitions
+
+“User”, “You” defined as the registered user of the TagSure App, who has completed the TagSure registration process.
+
+“Company”, “Posttech”, “TagSure” "We" defined as Posttech Software Solutions Private Limited, that is a private limited company incorporated in India
+
+“Service”, “Messenger Service” is the defined as the services provided as part of the TagSure App, that included services to exchange Text Messages, Multimedia Messages, Audio Call, Video Call between the registered users of the TagSure App.
+
+“User Information” is defined as the information the “User” has shared with the “Company” so as to allow the “Company” to deliver the “Messenger Service” to the “User”.
+
+"Content" is defined as the messages exchanged between the registered users of TagSure.
+
+2. Age Requirements User confirms that the User is above 13 years of age.
+
+3. TagSure Services offered TagSure provides messaging platform to provide services for exchanging text messages, multimedia messages, audio call, video call.
+
+4. Price The TagSure app has a free version and a subscription based paid version. The User shall choose to use the app in the Free version or the subscription based version. The subscription fee shall be decided by the Company and notified to the User.
+
+5. User obligations User shall behave within the framework of India law. User shall only post content on TagSure that is lawful according to India Law. The user shall upload only the content on TagSure that the user is allowed to share according to the Indian Law.
+
+6. Privacy Policy The user accepts the privacy policy as mentioned in Privacy Policy Page.
+
+7. License TagSure License to User The licence we give you is: worldwide, non-exclusive, royalty-free, personal, non-assignable to use the TagSure App for exchanging text messages, multimedia messages, audio call, video call with other registered users of the TagSure App.
+
+8. User License to TagSure User provides a License to TagSure. This licence is worldwide, non-exclusive, royalty-free. This licence allows TagSure to host, reproduce, distribute, communicate and use your content – for example, to save your content on our systems and make it accessible from anywhere that you go, publish, publicly perform or publicly display your content, if you’ve made it visible to others, modify and create derivative works based on your content, such as reformatting or translating it, sublicense these rights to: other users to allow the services to work as designed, such as enabling you to share photos with people that you choose, our contractors who’ve signed agreements with us that are consistent with these terms.
+
+9. Proprietary Rights User acknowledges and agrees that the copyright, patent, trade secret, and all other intellectual property rights of whatever nature in the Software, Documentation and Specifications are and shall remain the property of the Company, and nothing in this Agreement should be construed as transferring any aspects of such rights to the User or any third party.
+
+10. Indemnification User hereby indemnifies Company against any claim for (1) alleged infringement of any registered copyright or patent, arising out of the use of the Software by User in any manner prohibited by this Agreement and (2) any claim related to or arising out of a transaction brought by any third party based on the use of the Software.
+
+11. Force Majeure Neither party shall be under any liability for any loss or for any failure to perform any obligation hereunder due to causes beyond its control including without limitation industrial disputes of whatever nature, power loss, telecommunications failure, acts of God, or any other cause beyond its reasonable control.
+
+12. Termination We may terminate or suspend access to our Service immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms. All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
+
+13. Warranty The Software is provided "as is,". TagSure does not make any warranty regarding the Software, and User disclaims to the extent authorized by law any and all other warranties, whether express or implied, including any implied warranties of merchantability or fitness for a particular purpose.
+
+14. LIMITATION OF LIABILITY The Company SHALL HAVE NO LIABILITY WITH RESPECT TO ITS OBLIGATIONS UNDER THIS AGREEMENT OR OTHERWISE FOR CONSEQUENTIAL, EXEMPLARY, SPECIAL, INCIDENTAL OR PUNITIVE DAMAGES EVEN IF IT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN ANY EVENT, THE LIABILITY OF The Company TO User FOR ANY REASON AND UPON ANY COUNTRY OF ACTION SHALL BE LIMITED TO Indian Rupee 1 (Indian Rupee One Only). THIS LIMITATION APPLIES TO ALL COUNTRIES OF ACTION IN THE AGGREGATE, INCLUDING WITHOUT LIMITATION TO BREACH OF CONTRACT, BREACH OF WARRANTY, NEGLIGENCE, STRICT LIABILITY, MISREPRESENTATIONS, AND OTHER TORTS. BOTH PARTIES UNDERSTAND AND AGREE THAT THE REMEDIES AND LIMITATIONS HEREIN ALLOCATE THE RISKS OF PRODUCT AND SERVICE NONCONFORMITY BETWEEN THE PARTIES AS AUTHORIZED BY APPLICABLE LAWS. THE FEES HEREIN REFLECT, AND ARE SET IN RELIANCE UPON, THIS ALLOCATION OF RISK AND THE EXCLUSION OF CONSEQUENTIAL DAMAGES SET FORTH IN THIS AGREEMENT.
+
+15. Updates At some point, we may wish to update the app. The app is currently available on Android – the requirements for this system (and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Posttech Software Solutions Private Limited does not promise that it will always update the app so that it is relevant to you and/or works with the Android version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
+
+16. Carrier Charges If you’re using the app outside of an area with Wi-Fi, you should remember that your terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming.
+
+17. Changes We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 (change this) days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+
+18. Binding agreement This Agreement will be binding upon and inure to the benefit of the parties hereto, their respective successors and assigns.
+
+19. Communication User agrees to receive communication from TagSure over TagSure, Phone, Text(SMS), Email.
+
+20. Jurisdiction for any dispute resolution related to this Terms of Service is by arbitration at Noida, Uttar Pradesh, India. Contact Email at support@posttech.net
+
+Contact
+
+Posttech Internet Solution, Level 5, Tower C, Green Boulevard, Sector 62, Noida, UP, India.
+
+Email: support@posttech.net
+
