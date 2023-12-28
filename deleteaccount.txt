@@ -1,0 +1,2 @@
+Instructions to Delete Account.
+You can delete your account by using the delete account option on the menu of the MainActivity.
