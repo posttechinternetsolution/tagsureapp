@@ -1,2 +1,2 @@
 Instructions to Delete Account.
-You can delete your account by using the delete account option on the menu of the MainActivity.
+You can delete your account by sending an email to support@posttech.net, please mention your registered phone number in the email.
